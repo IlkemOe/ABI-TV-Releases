@@ -1,0 +1,11 @@
+{
+    "version":  1,
+    "info":  "ABI TV Fernverwaltung: je Stick ein verschluesselter Link, nur mit dessen Geraete-Code lesbar.",
+    "devices":  {
+                    "8daa8c08c472b7327db4aa9b":  {
+                                                     "iv":  "PXnO6ddlPd6DdyeSr0Vt9A==",
+                                                     "data":  "AYHHMQ4gAfQ0FX9kM0FreXLoWZ8e9NCqr7Qoh5TB9B5BzudsolJ9uR62vILJMIS5P1xc9UAwOIUy2RejDaWPI54JyJQdj2xAzElhEj+sr5hyWbNNOrhAzMocVbKRDjpCVDIYyuEOw/t/oztRUKLnJQ==",
+                                                     "mac":  "oxGWCJpusoRzxXHqrNkwC6NZsK5dO6/qk3NA/dAx/sY="
+                                                 }
+                }
+}
